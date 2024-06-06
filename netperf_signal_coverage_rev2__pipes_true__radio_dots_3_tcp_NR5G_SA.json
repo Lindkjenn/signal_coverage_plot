@@ -1,0 +1,4104 @@
+{
+  "host": "rp2",
+  "label": "signal_coverage_rev2__pipes_true__radio_dots_3",
+  "ping_ip": "100.77.21.2",
+  "iperf_ip": "129.241.153.51",
+  "results": [
+    {
+      "id": 43,
+      "timestamp": "2024-05-22_11-26-08",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.107,
+        "avg_latency": 40.176,
+        "max_latency": 48.867
+      },
+      "iperf": {
+        "uplink": 53.4,
+        "downlink": 171.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -72.0,
+        "rsrq": -11.0,
+        "snr": 325.0
+      }
+    },
+    {
+      "id": 7,
+      "timestamp": "2024-05-22_10-48-21",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.403,
+        "avg_latency": 36.729,
+        "max_latency": 47.345
+      },
+      "iperf": {
+        "uplink": 66.8,
+        "downlink": 202.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.0,
+        "rsrq": -11.0,
+        "snr": 300.0
+      }
+    },
+    {
+      "id": 1,
+      "timestamp": "2024-05-22_10-42-00",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.85,
+        "avg_latency": 43.228,
+        "max_latency": 58.527
+      },
+      "iperf": {
+        "uplink": 15.5,
+        "downlink": 252.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -70.0,
+        "rsrq": -11.0,
+        "snr": 300.0
+      }
+    },
+    {
+      "id": 22,
+      "timestamp": "2024-05-22_11-04-11",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.233,
+        "avg_latency": 36.598,
+        "max_latency": 47.963
+      },
+      "iperf": {
+        "uplink": 68.9,
+        "downlink": 106.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -88.0,
+        "rsrq": -11.0,
+        "snr": 330.0
+      }
+    },
+    {
+      "id": 32,
+      "timestamp": "2024-05-22_11-13-52",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.387,
+        "avg_latency": 36.424,
+        "max_latency": 43.495
+      },
+      "iperf": {
+        "uplink": 75.7,
+        "downlink": 212.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.0,
+        "rsrq": -11.0,
+        "snr": 350.0
+      }
+    },
+    {
+      "id": 39,
+      "timestamp": "2024-05-22_11-23-03",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.78,
+        "avg_latency": 38.337,
+        "max_latency": 49.751
+      },
+      "iperf": {
+        "uplink": 61.1,
+        "downlink": 197.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -81.0,
+        "rsrq": -11.0,
+        "snr": 255.0
+      }
+    },
+    {
+      "id": 38,
+      "timestamp": "2024-05-22_11-21-58",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.773,
+        "avg_latency": 39.987,
+        "max_latency": 49.917
+      },
+      "iperf": {
+        "uplink": 58.2,
+        "downlink": 107.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -84.0,
+        "rsrq": -11.0,
+        "snr": 230.0
+      }
+    },
+    {
+      "id": 2,
+      "timestamp": "2024-05-22_10-44-19",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.318,
+        "avg_latency": 36.885,
+        "max_latency": 48.337
+      },
+      "iperf": {
+        "uplink": 63.7,
+        "downlink": 252.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.0,
+        "rsrq": -11.0,
+        "snr": 400.0
+      }
+    },
+    {
+      "id": 44,
+      "timestamp": "2024-05-22_11-27-09",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.398,
+        "avg_latency": 38.075,
+        "max_latency": 54.277
+      },
+      "iperf": {
+        "uplink": 67.6,
+        "downlink": 266.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -81.0,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 9,
+      "timestamp": "2024-05-22_10-50-23",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.835,
+        "avg_latency": 39.649,
+        "max_latency": 48.832
+      },
+      "iperf": {
+        "uplink": 67.2,
+        "downlink": 152.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -80.0,
+        "rsrq": -11.0,
+        "snr": 400.0
+      }
+    },
+    {
+      "id": 21,
+      "timestamp": "2024-05-22_11-02-39",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 32.899,
+        "avg_latency": 35.93,
+        "max_latency": 45.915
+      },
+      "iperf": {
+        "uplink": 73.0,
+        "downlink": 246.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -85.0,
+        "rsrq": -11.0,
+        "snr": 310.0
+      }
+    },
+    {
+      "id": 33,
+      "timestamp": "2024-05-22_11-14-50",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.478,
+        "avg_latency": 38.123,
+        "max_latency": 56.477
+      },
+      "iperf": {
+        "uplink": 68.7,
+        "downlink": 69.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -92.0,
+        "rsrq": -11.0,
+        "snr": 250.0
+      }
+    },
+    {
+      "id": 30,
+      "timestamp": "2024-05-22_11-12-29",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.439,
+        "avg_latency": 37.48,
+        "max_latency": 52.363
+      },
+      "iperf": {
+        "uplink": 67.5,
+        "downlink": 203.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.0,
+        "rsrq": -11.0,
+        "snr": 315.0
+      }
+    },
+    {
+      "id": 6,
+      "timestamp": "2024-05-22_10-47-33",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.28,
+        "avg_latency": 38.129,
+        "max_latency": 48.327
+      },
+      "iperf": {
+        "uplink": 67.4,
+        "downlink": 213.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -83.0,
+        "rsrq": -11.0,
+        "snr": 305.0
+      }
+    },
+    {
+      "id": 34,
+      "timestamp": "2024-05-22_11-16-42",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.206,
+        "avg_latency": 37.501,
+        "max_latency": 48.984
+      },
+      "iperf": {
+        "uplink": 69.3,
+        "downlink": 239.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -95.0,
+        "rsrq": -11.0,
+        "snr": 260.0
+      }
+    },
+    {
+      "id": 36,
+      "timestamp": "2024-05-22_11-18-38",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.782,
+        "avg_latency": 39.137,
+        "max_latency": 51.501
+      },
+      "iperf": {
+        "uplink": 62.7,
+        "downlink": 99.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -87.0,
+        "rsrq": -11.0,
+        "snr": 195.0
+      }
+    },
+    {
+      "id": 5,
+      "timestamp": "2024-05-22_10-46-22",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.85,
+        "avg_latency": 39.931,
+        "max_latency": 50.281
+      },
+      "iperf": {
+        "uplink": 63.2,
+        "downlink": 246.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -77.0,
+        "rsrq": -11.0,
+        "snr": 395.0
+      }
+    },
+    {
+      "id": 0,
+      "timestamp": "2024-05-22_10-41-15",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.521,
+        "avg_latency": 36.378,
+        "max_latency": 45.665
+      },
+      "iperf": {
+        "uplink": 65.4,
+        "downlink": 254.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.0,
+        "rsrq": -11.0,
+        "snr": 310.0
+      }
+    },
+    {
+      "id": 16,
+      "timestamp": "2024-05-22_10-56-01",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.536,
+        "avg_latency": 38.238,
+        "max_latency": 50.755
+      },
+      "iperf": {
+        "uplink": 52.2,
+        "downlink": 237.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -80.0,
+        "rsrq": -11.0,
+        "snr": 320.0
+      }
+    },
+    {
+      "id": 8,
+      "timestamp": "2024-05-22_10-49-43",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.197,
+        "avg_latency": 37.408,
+        "max_latency": 46.073
+      },
+      "iperf": {
+        "uplink": 64.2,
+        "downlink": 244.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -83.0,
+        "rsrq": -11.0,
+        "snr": 320.0
+      }
+    },
+    {
+      "id": 46,
+      "timestamp": "2024-05-22_11-28-37",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 32.999,
+        "avg_latency": 36.753,
+        "max_latency": 46.311
+      },
+      "iperf": {
+        "uplink": 66.2,
+        "downlink": 168.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -87.0,
+        "rsrq": -11.0,
+        "snr": 265.0
+      }
+    },
+    {
+      "id": 24,
+      "timestamp": "2024-05-22_11-06-12",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.169,
+        "avg_latency": 37.772,
+        "max_latency": 48.268
+      },
+      "iperf": {
+        "uplink": 65.2,
+        "downlink": 235.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.0,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 45,
+      "timestamp": "2024-05-22_11-27-58",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.362,
+        "avg_latency": 37.637,
+        "max_latency": 44.194
+      },
+      "iperf": {
+        "uplink": 67.6,
+        "downlink": 116.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -87.0,
+        "rsrq": -11.0,
+        "snr": 270.0
+      }
+    },
+    {
+      "id": 35,
+      "timestamp": "2024-05-22_11-17-37",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.842,
+        "avg_latency": 39.627,
+        "max_latency": 57.127
+      },
+      "iperf": {
+        "uplink": 45.0,
+        "downlink": 215.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.0,
+        "rsrq": -11.0,
+        "snr": 260.0
+      }
+    },
+    {
+      "id": 47,
+      "timestamp": "2024-05-22_11-29-12",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.101,
+        "avg_latency": 37.591,
+        "max_latency": 54.853
+      },
+      "iperf": {
+        "uplink": 69.3,
+        "downlink": 98.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -92.0,
+        "rsrq": -11.0,
+        "snr": 245.0
+      }
+    },
+    {
+      "id": 27,
+      "timestamp": "2024-05-22_11-09-06",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.218,
+        "avg_latency": 40.141,
+        "max_latency": 51.37
+      },
+      "iperf": {
+        "uplink": 57.8,
+        "downlink": 126.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -81.0,
+        "rsrq": -11.0,
+        "snr": 315.0
+      }
+    },
+    {
+      "id": 11,
+      "timestamp": "2024-05-22_10-51-41",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.85,
+        "avg_latency": 39.907,
+        "max_latency": 49.958
+      },
+      "iperf": {
+        "uplink": 60.5,
+        "downlink": 194.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -91.0,
+        "rsrq": -11.0,
+        "snr": 235.0
+      }
+    },
+    {
+      "id": 28,
+      "timestamp": "2024-05-22_11-09-49",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.314,
+        "avg_latency": 37.251,
+        "max_latency": 45.957
+      },
+      "iperf": {
+        "uplink": 70.0,
+        "downlink": 257.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.0,
+        "rsrq": -11.0,
+        "snr": 285.0
+      }
+    },
+    {
+      "id": 42,
+      "timestamp": "2024-05-22_11-25-03",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.155,
+        "avg_latency": 37.82,
+        "max_latency": 52.597
+      },
+      "iperf": {
+        "uplink": 66.2,
+        "downlink": 257.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -82.0,
+        "rsrq": -11.0,
+        "snr": 285.0
+      }
+    },
+    {
+      "id": 29,
+      "timestamp": "2024-05-22_11-11-03",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.824,
+        "avg_latency": 38.376,
+        "max_latency": 49.881
+      },
+      "iperf": {
+        "uplink": 51.8,
+        "downlink": 251.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -72.0,
+        "rsrq": -11.0,
+        "snr": 375.0
+      }
+    },
+    {
+      "id": 19,
+      "timestamp": "2024-05-22_10-58-25",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.046,
+        "avg_latency": 39.05,
+        "max_latency": 50.885
+      },
+      "iperf": {
+        "uplink": 55.4,
+        "downlink": 211.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -72.0,
+        "rsrq": -11.0,
+        "snr": 325.0
+      }
+    },
+    {
+      "id": 25,
+      "timestamp": "2024-05-22_11-06-48",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.587,
+        "avg_latency": 37.211,
+        "max_latency": 47.897
+      },
+      "iperf": {
+        "uplink": 66.7,
+        "downlink": 156.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.0,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 14,
+      "timestamp": "2024-05-22_10-53-58",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 35.654,
+        "avg_latency": 40.85,
+        "max_latency": 55.045
+      },
+      "iperf": {
+        "uplink": 47.2,
+        "downlink": 95.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -85.0,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 15,
+      "timestamp": "2024-05-22_10-54-35",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.244,
+        "avg_latency": 36.895,
+        "max_latency": 43.867
+      },
+      "iperf": {
+        "uplink": 68.2,
+        "downlink": 89.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -88.0,
+        "rsrq": -11.0,
+        "snr": 285.0
+      }
+    },
+    {
+      "id": 3,
+      "timestamp": "2024-05-22_10-44-56",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.73,
+        "avg_latency": 39.626,
+        "max_latency": 49.962
+      },
+      "iperf": {
+        "uplink": 52.2,
+        "downlink": 244.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -72.0,
+        "rsrq": -11.0,
+        "snr": 365.0
+      }
+    },
+    {
+      "id": 17,
+      "timestamp": "2024-05-22_10-56-55",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.494,
+        "avg_latency": 37.773,
+        "max_latency": 50.842
+      },
+      "iperf": {
+        "uplink": 56.3,
+        "downlink": 183.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -77.0,
+        "rsrq": -11.0,
+        "snr": 305.0
+      }
+    },
+    {
+      "id": 41,
+      "timestamp": "2024-05-22_11-24-27",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.025,
+        "avg_latency": 38.434,
+        "max_latency": 47.744
+      },
+      "iperf": {
+        "uplink": 61.4,
+        "downlink": 251.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.0,
+        "rsrq": -11.0,
+        "snr": 290.0
+      }
+    },
+    {
+      "id": 48,
+      "timestamp": "2024-05-22_11-29-51",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.779,
+        "avg_latency": 38.681,
+        "max_latency": 49.779
+      },
+      "iperf": {
+        "uplink": 62.1,
+        "downlink": 97.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -84.0,
+        "rsrq": -11.0,
+        "snr": 255.0
+      }
+    },
+    {
+      "id": 37,
+      "timestamp": "2024-05-22_11-21-17",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 35.795,
+        "avg_latency": 39.331,
+        "max_latency": 48.729
+      },
+      "iperf": {
+        "uplink": 59.7,
+        "downlink": 78.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -92.0,
+        "rsrq": -11.0,
+        "snr": 235.0
+      }
+    },
+    {
+      "id": 20,
+      "timestamp": "2024-05-22_10-59-31",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.296,
+        "avg_latency": 38.206,
+        "max_latency": 47.134
+      },
+      "iperf": {
+        "uplink": 49.4,
+        "downlink": 57.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -92.0,
+        "rsrq": -11.0,
+        "snr": 335.0
+      }
+    },
+    {
+      "id": 26,
+      "timestamp": "2024-05-22_11-08-22",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.353,
+        "avg_latency": 39.406,
+        "max_latency": 51.483
+      },
+      "iperf": {
+        "uplink": 60.6,
+        "downlink": 166.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -72.0,
+        "rsrq": -11.0,
+        "snr": 300.0
+      }
+    },
+    {
+      "id": 10,
+      "timestamp": "2024-05-22_10-51-00",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.342,
+        "avg_latency": 36.843,
+        "max_latency": 45.674
+      },
+      "iperf": {
+        "uplink": 73.9,
+        "downlink": 224.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -92.0,
+        "rsrq": -11.0,
+        "snr": 300.0
+      }
+    },
+    {
+      "id": 13,
+      "timestamp": "2024-05-22_10-53-11",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.912,
+        "avg_latency": 43.607,
+        "max_latency": 56.84
+      },
+      "iperf": {
+        "uplink": 23.4,
+        "downlink": 197.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -83.0,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 18,
+      "timestamp": "2024-05-22_10-57-34",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.844,
+        "avg_latency": 39.781,
+        "max_latency": 54.882
+      },
+      "iperf": {
+        "uplink": 56.1,
+        "downlink": 148.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -88.0,
+        "rsrq": -11.0,
+        "snr": 360.0
+      }
+    },
+    {
+      "id": 31,
+      "timestamp": "2024-05-22_11-13-14",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.342,
+        "avg_latency": 37.76,
+        "max_latency": 47.72
+      },
+      "iperf": {
+        "uplink": 65.6,
+        "downlink": 46.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -80.0,
+        "rsrq": -11.0,
+        "snr": 270.0
+      }
+    },
+    {
+      "id": 4,
+      "timestamp": "2024-05-22_10-45-33",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.411,
+        "avg_latency": 38.563,
+        "max_latency": 49.872
+      },
+      "iperf": {
+        "uplink": 68.6,
+        "downlink": 188.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -84.0,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 23,
+      "timestamp": "2024-05-22_11-05-08",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.234,
+        "avg_latency": 38.656,
+        "max_latency": 58.428
+      },
+      "iperf": {
+        "uplink": 65.7,
+        "downlink": 123.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -72.0,
+        "rsrq": -11.0,
+        "snr": 335.0
+      }
+    },
+    {
+      "id": 40,
+      "timestamp": "2024-05-22_11-23-36",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.313,
+        "avg_latency": 37.36,
+        "max_latency": 51.656
+      },
+      "iperf": {
+        "uplink": 66.9,
+        "downlink": 192.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -87.0,
+        "rsrq": -11.0,
+        "snr": 315.0
+      }
+    },
+    {
+      "id": 12,
+      "timestamp": "2024-05-22_10-52-29",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 32.815,
+        "avg_latency": 39.541,
+        "max_latency": 48.577
+      },
+      "iperf": {
+        "uplink": 65.6,
+        "downlink": 80.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -89.0,
+        "rsrq": -11.0,
+        "snr": 260.0
+      }
+    },
+    {
+      "id": 108,
+      "timestamp": "2024-05-22_12-39-05",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 35.909,
+        "avg_latency": 40.854,
+        "max_latency": 50.886
+      },
+      "iperf": {
+        "uplink": 44.1,
+        "downlink": 195.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -97.0,
+        "rsrq": -11.0,
+        "snr": 225.0
+      }
+    },
+    {
+      "id": 65,
+      "timestamp": "2024-05-22_12-23-23",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.586,
+        "avg_latency": 40.888,
+        "max_latency": 48.806
+      },
+      "iperf": {
+        "uplink": 62.1,
+        "downlink": 102.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -90.0,
+        "rsrq": -11.0,
+        "snr": 265.0
+      }
+    },
+    {
+      "id": 89,
+      "timestamp": "2024-05-22_12-30-12",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.684,
+        "avg_latency": 36.882,
+        "max_latency": 45.885
+      },
+      "iperf": {
+        "uplink": 52.7,
+        "downlink": 103.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -109.0,
+        "rsrq": -11.0,
+        "snr": 150.0
+      }
+    },
+    {
+      "id": 117,
+      "timestamp": "2024-05-22_12-44-07",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 36.233,
+        "avg_latency": 41.199,
+        "max_latency": 49.689
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -116.0,
+        "rsrq": -12.0,
+        "snr": 95.0
+      }
+    },
+    {
+      "id": 57,
+      "timestamp": "2024-05-22_12-18-47",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.281,
+        "avg_latency": 37.024,
+        "max_latency": 45.608
+      },
+      "iperf": {
+        "uplink": 72.1,
+        "downlink": 76.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -102.0,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 55,
+      "timestamp": "2024-05-22_12-17-40",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.446,
+        "avg_latency": 38.507,
+        "max_latency": 52.031
+      },
+      "iperf": {
+        "uplink": 61.6,
+        "downlink": 98.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -102.0,
+        "rsrq": -11.0,
+        "snr": 250.0
+      }
+    },
+    {
+      "id": 63,
+      "timestamp": "2024-05-22_12-22-16",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.022,
+        "avg_latency": 39.999,
+        "max_latency": 50.459
+      },
+      "iperf": {
+        "uplink": 66.4,
+        "downlink": 241.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -102.0,
+        "rsrq": -11.0,
+        "snr": 250.0
+      }
+    },
+    {
+      "id": 56,
+      "timestamp": "2024-05-22_12-41-29",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.828,
+        "avg_latency": 40.258,
+        "max_latency": 57.667
+      },
+      "iperf": {
+        "uplink": 61.3,
+        "downlink": 226.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -97.0,
+        "rsrq": -11.0,
+        "snr": 235.0
+      }
+    },
+    {
+      "id": 52,
+      "timestamp": "2024-05-22_12-15-46",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.284,
+        "avg_latency": 38.569,
+        "max_latency": 49.817
+      },
+      "iperf": {
+        "uplink": 50.3,
+        "downlink": 254.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.0,
+        "rsrq": -11.0,
+        "snr": 160.0
+      }
+    },
+    {
+      "id": 53,
+      "timestamp": "2024-05-22_12-16-24",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.442,
+        "avg_latency": 39.772,
+        "max_latency": 50.699
+      },
+      "iperf": {
+        "uplink": 56.1,
+        "downlink": 47.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -104.0,
+        "rsrq": -11.0,
+        "snr": 230.0
+      }
+    },
+    {
+      "id": 58,
+      "timestamp": "2024-05-22_12-19-22",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.303,
+        "avg_latency": 37.432,
+        "max_latency": 48.905
+      },
+      "iperf": {
+        "uplink": 59.9,
+        "downlink": 251.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -102.0,
+        "rsrq": -11.0,
+        "snr": 250.0
+      }
+    },
+    {
+      "id": 85,
+      "timestamp": "2024-05-22_12-27-32",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.843,
+        "avg_latency": 39.852,
+        "max_latency": 50.052
+      },
+      "iperf": {
+        "uplink": 49.7,
+        "downlink": 93.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -104.0,
+        "rsrq": -11.0,
+        "snr": 155.0
+      }
+    },
+    {
+      "id": 50,
+      "timestamp": "2024-05-22_12-14-07",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.915,
+        "avg_latency": 40.39,
+        "max_latency": 52.809
+      },
+      "iperf": {
+        "uplink": 57.2,
+        "downlink": 160.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -84.0,
+        "rsrq": -11.0,
+        "snr": 290.0
+      }
+    },
+    {
+      "id": 107,
+      "timestamp": "2024-05-22_12-37-46",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 35.84,
+        "avg_latency": 41.801,
+        "max_latency": 56.174
+      },
+      "iperf": {
+        "uplink": 56.1,
+        "downlink": 75.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -98.0,
+        "rsrq": -11.0,
+        "snr": 220.0
+      }
+    },
+    {
+      "id": 70,
+      "timestamp": "2024-05-22_12-25-22",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.869,
+        "avg_latency": 38.477,
+        "max_latency": 52.168
+      },
+      "iperf": {
+        "uplink": 59.7,
+        "downlink": 51.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.0,
+        "rsrq": -12.0,
+        "snr": 170.0
+      }
+    },
+    {
+      "id": 54,
+      "timestamp": "2024-05-22_12-17-00",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.35,
+        "avg_latency": 40.382,
+        "max_latency": 58.524
+      },
+      "iperf": {
+        "uplink": 64.8,
+        "downlink": 233.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -97.0,
+        "rsrq": -11.0,
+        "snr": 220.0
+      }
+    },
+    {
+      "id": 84,
+      "timestamp": "2024-05-22_12-26-51",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.616,
+        "avg_latency": 39.128,
+        "max_latency": 53.547
+      },
+      "iperf": {
+        "uplink": 53.6,
+        "downlink": 226.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -100.0,
+        "rsrq": -11.0,
+        "snr": 160.0
+      }
+    },
+    {
+      "id": 86,
+      "timestamp": "2024-05-22_12-28-05",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.332,
+        "avg_latency": 37.97,
+        "max_latency": 47.878
+      },
+      "iperf": {
+        "uplink": 48.1,
+        "downlink": 219.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -106.0,
+        "rsrq": -11.0,
+        "snr": 90.0
+      }
+    },
+    {
+      "id": 69,
+      "timestamp": "2024-05-22_12-24-47",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.137,
+        "avg_latency": 39.075,
+        "max_latency": 49.459
+      },
+      "iperf": {
+        "uplink": 53.6,
+        "downlink": 111.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.0,
+        "rsrq": -11.0,
+        "snr": 135.0
+      }
+    },
+    {
+      "id": 116,
+      "timestamp": "2024-05-22_12-43-26",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.341,
+        "avg_latency": 37.293,
+        "max_latency": 46.302
+      },
+      "iperf": {
+        "uplink": 22.7,
+        "downlink": 82.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -121.0,
+        "rsrq": -13.0,
+        "snr": 45.0
+      }
+    },
+    {
+      "id": 90,
+      "timestamp": "2024-05-22_12-34-04",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.11,
+        "avg_latency": 39.025,
+        "max_latency": 54.824
+      },
+      "iperf": {
+        "uplink": 52.1,
+        "downlink": 31.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -104.0,
+        "rsrq": -11.0,
+        "snr": 160.0
+      }
+    },
+    {
+      "id": 61,
+      "timestamp": "2024-05-22_12-20-56",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.656,
+        "avg_latency": 40.156,
+        "max_latency": 53.297
+      },
+      "iperf": {
+        "uplink": 55.4,
+        "downlink": 237.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -100.0,
+        "rsrq": -11.0,
+        "snr": 230.0
+      }
+    },
+    {
+      "id": 105,
+      "timestamp": "2024-05-22_12-35-44",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.299,
+        "avg_latency": 38.393,
+        "max_latency": 50.483
+      },
+      "iperf": {
+        "uplink": 64.2,
+        "downlink": 255.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -104.0,
+        "rsrq": -11.0,
+        "snr": 230.0
+      }
+    },
+    {
+      "id": 88,
+      "timestamp": "2024-05-22_12-29-25",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.315,
+        "avg_latency": 40.327,
+        "max_latency": 52.748
+      },
+      "iperf": {
+        "uplink": 18.0,
+        "downlink": 146.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -110.0,
+        "rsrq": -12.0,
+        "snr": 40.0
+      }
+    },
+    {
+      "id": 51,
+      "timestamp": "2024-05-22_12-15-00",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.19,
+        "avg_latency": 38.24,
+        "max_latency": 50.075
+      },
+      "iperf": {
+        "uplink": 61.4,
+        "downlink": 105.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -103.0,
+        "rsrq": -11.0,
+        "snr": 220.0
+      }
+    },
+    {
+      "id": 62,
+      "timestamp": "2024-05-22_12-21-25",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.52,
+        "avg_latency": 39.21,
+        "max_latency": 50.311
+      },
+      "iperf": {
+        "uplink": 64.2,
+        "downlink": 204.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.0,
+        "rsrq": -11.0,
+        "snr": 200.0
+      }
+    },
+    {
+      "id": 64,
+      "timestamp": "2024-05-22_12-22-49",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.322,
+        "avg_latency": 38.607,
+        "max_latency": 51.381
+      },
+      "iperf": {
+        "uplink": 70.2,
+        "downlink": 92.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -81.0,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 91,
+      "timestamp": "2024-05-22_12-31-39",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.838,
+        "avg_latency": 39.745,
+        "max_latency": 57.388
+      },
+      "iperf": {
+        "uplink": 50.0,
+        "downlink": 100.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -105.0,
+        "rsrq": -11.0,
+        "snr": 180.0
+      }
+    },
+    {
+      "id": 87,
+      "timestamp": "2024-05-22_12-28-46",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.009,
+        "avg_latency": 40.346,
+        "max_latency": 51.803
+      },
+      "iperf": {
+        "uplink": 48.0,
+        "downlink": 36.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -109.0,
+        "rsrq": -12.0,
+        "snr": 125.0
+      }
+    },
+    {
+      "id": 73,
+      "timestamp": "2024-05-23_12-40-44",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.286,
+        "avg_latency": 39.043,
+        "max_latency": 52.8
+      },
+      "iperf": {
+        "uplink": 64.3,
+        "downlink": 251.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -98.0,
+        "rsrq": -11.0,
+        "snr": 265.0
+      }
+    },
+    {
+      "id": 75,
+      "timestamp": "2024-05-23_12-42-26",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.652,
+        "avg_latency": 39.137,
+        "max_latency": 55.263
+      },
+      "iperf": {
+        "uplink": 45.9,
+        "downlink": 95.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -106.0,
+        "rsrq": -11.333333333333334,
+        "snr": 165.0
+      }
+    },
+    {
+      "id": 77,
+      "timestamp": "2024-05-23_12-44-13",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.244,
+        "avg_latency": 40.037,
+        "max_latency": 49.779
+      },
+      "iperf": {
+        "uplink": 66.1,
+        "downlink": 239.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -95.66666666666667,
+        "rsrq": -11.0,
+        "snr": 285.0
+      }
+    },
+    {
+      "id": 72,
+      "timestamp": "2024-05-23_12-40-00",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.433,
+        "avg_latency": 40.056,
+        "max_latency": 50.98
+      },
+      "iperf": {
+        "uplink": 55.3,
+        "downlink": 51.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -98.0,
+        "rsrq": -11.0,
+        "snr": 210.0
+      }
+    },
+    {
+      "id": 74,
+      "timestamp": "2024-05-23_12-41-21",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.742,
+        "avg_latency": 40.226,
+        "max_latency": 50.848
+      },
+      "iperf": {
+        "uplink": 52.0,
+        "downlink": 160.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -84.0,
+        "rsrq": -11.0,
+        "snr": 310.0
+      }
+    },
+    {
+      "id": 76,
+      "timestamp": "2024-05-23_12-43-12",
+      "ping": {
+        "packet_loss": 0.78125,
+        "min_latency": 33.566,
+        "avg_latency": 40.42,
+        "max_latency": 49.875
+      },
+      "iperf": {
+        "uplink": 53.9,
+        "downlink": 144.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -100.33333333333333,
+        "rsrq": -12.333333333333334,
+        "snr": 200.0
+      }
+    },
+    {
+      "id": 78,
+      "timestamp": "2024-05-23_12-44-58",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.373,
+        "avg_latency": 39.113,
+        "max_latency": 49.876
+      },
+      "iperf": {
+        "uplink": 55.4,
+        "downlink": 195.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -101.0,
+        "rsrq": -11.333333333333334,
+        "snr": 180.0
+      }
+    },
+    {
+      "id": 79,
+      "timestamp": "2024-05-23_12-46-09",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.385,
+        "avg_latency": 37.538,
+        "max_latency": 50.825
+      },
+      "iperf": {
+        "uplink": 44.7,
+        "downlink": 163.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -109.0,
+        "rsrq": -11.0,
+        "snr": 135.0
+      }
+    },
+    {
+      "id": 80,
+      "timestamp": "2024-05-23_12-47-08",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.641,
+        "avg_latency": 39.894,
+        "max_latency": 54.518
+      },
+      "iperf": {
+        "uplink": 34.4,
+        "downlink": 63.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -112.66666666666667,
+        "rsrq": -13.333333333333334,
+        "snr": 110.0
+      }
+    },
+    {
+      "id": 81,
+      "timestamp": "2024-05-23_12-47-51",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.349,
+        "avg_latency": 38.45,
+        "max_latency": 51.043
+      },
+      "iperf": {
+        "uplink": 37.7,
+        "downlink": 46.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -116.66666666666667,
+        "rsrq": -13.0,
+        "snr": 135.0
+      }
+    },
+    {
+      "id": 82,
+      "timestamp": "2024-05-23_12-48-32",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.109,
+        "avg_latency": 39.405,
+        "max_latency": 53.037
+      },
+      "iperf": {
+        "uplink": 37.2,
+        "downlink": 47.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -113.66666666666667,
+        "rsrq": -13.666666666666666,
+        "snr": 100.0
+      }
+    },
+    {
+      "id": 71,
+      "timestamp": "2024-05-23_12-38-13",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.474,
+        "avg_latency": 38.243,
+        "max_latency": 51.933
+      },
+      "iperf": {
+        "uplink": 41.2,
+        "downlink": 97.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.66666666666667,
+        "rsrq": -11.333333333333334,
+        "snr": 125.0
+      }
+    },
+    {
+      "id": 83,
+      "timestamp": "2024-05-23_12-49-42",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.503,
+        "avg_latency": 38.698,
+        "max_latency": 51.318
+      },
+      "iperf": {
+        "uplink": 41.7,
+        "downlink": 83.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -111.66666666666667,
+        "rsrq": -12.0,
+        "snr": 120.0
+      }
+    },
+    {
+      "id": 59,
+      "timestamp": "2024-05-23_14-08-38",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.716,
+        "avg_latency": 36.85,
+        "max_latency": 45.964
+      },
+      "iperf": {
+        "uplink": 64.3,
+        "downlink": 255.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -93.33333333333333,
+        "rsrq": -11.0,
+        "snr": 320.0
+      }
+    },
+    {
+      "id": 114,
+      "timestamp": "2024-05-23_14-31-59",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.298,
+        "avg_latency": 36.97,
+        "max_latency": 49.49
+      },
+      "iperf": {
+        "uplink": 46.2,
+        "downlink": 152.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.0,
+        "rsrq": -11.0,
+        "snr": 140.0
+      }
+    },
+    {
+      "id": 101,
+      "timestamp": "2024-05-23_14-23-17",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.192,
+        "avg_latency": 37.744,
+        "max_latency": 50.11
+      },
+      "iperf": {
+        "uplink": 64.3,
+        "downlink": 250.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -90.66666666666667,
+        "rsrq": -11.0,
+        "snr": 275.0
+      }
+    },
+    {
+      "id": 109,
+      "timestamp": "2024-05-23_14-27-28",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.706,
+        "avg_latency": 37.79,
+        "max_latency": 48.577
+      },
+      "iperf": {
+        "uplink": 71.7,
+        "downlink": 129.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -84.66666666666667,
+        "rsrq": -11.0,
+        "snr": 335.0
+      }
+    },
+    {
+      "id": 66,
+      "timestamp": "2024-05-23_14-10-07",
+      "ping": {
+        "packet_loss": 0.78125,
+        "min_latency": 34.845,
+        "avg_latency": 41.185,
+        "max_latency": 51.838
+      },
+      "iperf": {
+        "uplink": 45.4,
+        "downlink": 204.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -93.33333333333333,
+        "rsrq": -11.0,
+        "snr": 275.0
+      }
+    },
+    {
+      "id": 103,
+      "timestamp": "2024-05-23_14-25-02",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.142,
+        "avg_latency": 36.642,
+        "max_latency": 52.341
+      },
+      "iperf": {
+        "uplink": 63.8,
+        "downlink": 230.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.66666666666667,
+        "rsrq": -11.0,
+        "snr": 325.0
+      }
+    },
+    {
+      "id": 111,
+      "timestamp": "2024-05-23_14-29-03",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.63,
+        "avg_latency": 37.857,
+        "max_latency": 53.416
+      },
+      "iperf": {
+        "uplink": 67.5,
+        "downlink": 263.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -86.33333333333333,
+        "rsrq": -11.0,
+        "snr": 275.0
+      }
+    },
+    {
+      "id": 102,
+      "timestamp": "2024-05-23_14-24-12",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.217,
+        "avg_latency": 38.219,
+        "max_latency": 53.942
+      },
+      "iperf": {
+        "uplink": 65.7,
+        "downlink": 233.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -82.33333333333333,
+        "rsrq": -11.0,
+        "snr": 315.0
+      }
+    },
+    {
+      "id": 129,
+      "timestamp": "2024-05-23_14-41-30",
+      "ping": {
+        "packet_loss": 0.78125,
+        "min_latency": 33.317,
+        "avg_latency": 36.83,
+        "max_latency": 44.99
+      },
+      "iperf": {
+        "uplink": 61.9,
+        "downlink": 49.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -78.66666666666667,
+        "rsrq": -11.0,
+        "snr": 285.0
+      }
+    },
+    {
+      "id": 130,
+      "timestamp": "2024-05-23_14-42-06",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.28,
+        "avg_latency": 36.457,
+        "max_latency": 44.863
+      },
+      "iperf": {
+        "uplink": 57.1,
+        "downlink": 227.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -78.33333333333333,
+        "rsrq": -11.0,
+        "snr": 260.0
+      }
+    },
+    {
+      "id": 118,
+      "timestamp": "2024-05-23_14-33-34",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.345,
+        "avg_latency": 37.206,
+        "max_latency": 48.832
+      },
+      "iperf": {
+        "uplink": 42.9,
+        "downlink": 65.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -107.66666666666667,
+        "rsrq": -11.333333333333334,
+        "snr": -45.0
+      }
+    },
+    {
+      "id": 104,
+      "timestamp": "2024-05-23_14-26-00",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.421,
+        "avg_latency": 36.911,
+        "max_latency": 45.992
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -88.33333333333333,
+        "rsrq": -11.0,
+        "snr": 285.0
+      }
+    },
+    {
+      "id": 106,
+      "timestamp": "2024-05-23_14-14-18",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.338,
+        "avg_latency": 36.277,
+        "max_latency": 51.457
+      },
+      "iperf": {
+        "uplink": 29.7,
+        "downlink": 125.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -120.66666666666667,
+        "rsrq": -13.666666666666666,
+        "snr": 75.0
+      }
+    },
+    {
+      "id": 60,
+      "timestamp": "2024-05-23_14-09-20",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.36,
+        "avg_latency": 39.087,
+        "max_latency": 49.965
+      },
+      "iperf": {
+        "uplink": 61.6,
+        "downlink": 206.6,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -93.0,
+        "rsrq": -10.666666666666666,
+        "snr": 255.0
+      }
+    },
+    {
+      "id": 49,
+      "timestamp": "2024-05-23_14-07-36",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.152,
+        "avg_latency": 38.415,
+        "max_latency": 51.844
+      },
+      "iperf": {
+        "uplink": 65.1,
+        "downlink": 64.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -76.33333333333333,
+        "rsrq": -11.0,
+        "snr": 300.0
+      }
+    },
+    {
+      "id": 98,
+      "timestamp": "2024-05-23_14-19-15",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.335,
+        "avg_latency": 36.942,
+        "max_latency": 45.909
+      },
+      "iperf": {
+        "uplink": 63.7,
+        "downlink": 209.3,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -98.0,
+        "rsrq": -11.0,
+        "snr": 215.0
+      }
+    },
+    {
+      "id": 126,
+      "timestamp": "2024-05-23_14-37-34",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.195,
+        "avg_latency": 37.161,
+        "max_latency": 47.733
+      },
+      "iperf": {
+        "uplink": 62.5,
+        "downlink": 244.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -87.0,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 133,
+      "timestamp": "2024-05-23_14-45-05",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.256,
+        "avg_latency": 36.028,
+        "max_latency": 45.531
+      },
+      "iperf": {
+        "uplink": 67.3,
+        "downlink": 247.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -75.66666666666667,
+        "rsrq": -11.0,
+        "snr": 300.0
+      }
+    },
+    {
+      "id": 68,
+      "timestamp": "2024-05-23_14-11-26",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.437,
+        "avg_latency": 37.874,
+        "max_latency": 45.858
+      },
+      "iperf": {
+        "uplink": 54.0,
+        "downlink": 40.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -105.33333333333333,
+        "rsrq": -11.0,
+        "snr": 145.0
+      }
+    },
+    {
+      "id": 100,
+      "timestamp": "2024-05-23_14-22-36",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.508,
+        "avg_latency": 37.888,
+        "max_latency": 47.477
+      },
+      "iperf": {
+        "uplink": 73.1,
+        "downlink": 149.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -94.33333333333333,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 132,
+      "timestamp": "2024-05-23_14-44-04",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.362,
+        "avg_latency": 36.585,
+        "max_latency": 43.939
+      },
+      "iperf": {
+        "uplink": 65.9,
+        "downlink": 241.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -83.33333333333333,
+        "rsrq": -11.0,
+        "snr": 315.0
+      }
+    },
+    {
+      "id": 99,
+      "timestamp": "2024-05-23_14-21-35",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.159,
+        "avg_latency": 38.484,
+        "max_latency": 49.94
+      },
+      "iperf": {
+        "uplink": 67.3,
+        "downlink": 254.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -100.66666666666667,
+        "rsrq": -11.0,
+        "snr": 255.0
+      }
+    },
+    {
+      "id": 113,
+      "timestamp": "2024-05-23_14-31-08",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.029,
+        "avg_latency": 37.252,
+        "max_latency": 46.064
+      },
+      "iperf": {
+        "uplink": 13.3,
+        "downlink": 59.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -124.0,
+        "rsrq": -17.0,
+        "snr": 35.0
+      }
+    },
+    {
+      "id": 96,
+      "timestamp": "2024-05-23_14-17-20",
+      "ping": {
+        "packet_loss": 0.78125,
+        "min_latency": 32.808,
+        "avg_latency": 38.626,
+        "max_latency": 51.752
+      },
+      "iperf": {
+        "uplink": 72.0,
+        "downlink": 75.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -83.33333333333333,
+        "rsrq": -10.666666666666666,
+        "snr": 305.0
+      }
+    },
+    {
+      "id": 97,
+      "timestamp": "2024-05-23_14-18-21",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.25,
+        "avg_latency": 37.632,
+        "max_latency": 47.41
+      },
+      "iperf": {
+        "uplink": 71.4,
+        "downlink": 165.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -97.33333333333333,
+        "rsrq": -11.0,
+        "snr": 235.0
+      }
+    },
+    {
+      "id": 125,
+      "timestamp": "2024-05-23_14-36-56",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 32.89,
+        "avg_latency": 37.065,
+        "max_latency": 46.149
+      },
+      "iperf": {
+        "uplink": 62.9,
+        "downlink": 112.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -81.66666666666667,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 127,
+      "timestamp": "2024-05-23_14-38-15",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.17,
+        "avg_latency": 37.688,
+        "max_latency": 53.188
+      },
+      "iperf": {
+        "uplink": 69.9,
+        "downlink": 44.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -85.0,
+        "rsrq": -11.0,
+        "snr": 240.0
+      }
+    },
+    {
+      "id": 92,
+      "timestamp": "2024-05-23_14-12-14",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.425,
+        "avg_latency": 38.757,
+        "max_latency": 50.449
+      },
+      "iperf": {
+        "uplink": 53.1,
+        "downlink": 44.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -103.0,
+        "rsrq": -11.0,
+        "snr": 190.0
+      }
+    },
+    {
+      "id": 93,
+      "timestamp": "2024-05-23_14-13-01",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.389,
+        "avg_latency": 39.54,
+        "max_latency": 54.832
+      },
+      "iperf": {
+        "uplink": 44.7,
+        "downlink": 222.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -104.0,
+        "rsrq": -11.0,
+        "snr": 175.0
+      }
+    },
+    {
+      "id": 94,
+      "timestamp": "2024-05-23_14-15-55",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.608,
+        "avg_latency": 38.519,
+        "max_latency": 52.455
+      },
+      "iperf": {
+        "uplink": 45.2,
+        "downlink": 244.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -94.66666666666667,
+        "rsrq": -11.0,
+        "snr": 260.0
+      }
+    },
+    {
+      "id": 112,
+      "timestamp": "2024-05-23_14-30-04",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.145,
+        "avg_latency": 36.408,
+        "max_latency": 48.443
+      },
+      "iperf": {
+        "uplink": 65.0,
+        "downlink": 61.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -101.0,
+        "rsrq": -11.0,
+        "snr": 110.0
+      }
+    },
+    {
+      "id": 134,
+      "timestamp": "2024-05-23_14-46-30",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 32.924,
+        "avg_latency": 37.033,
+        "max_latency": 50.922
+      },
+      "iperf": {
+        "uplink": 66.0,
+        "downlink": 257.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.33333333333333,
+        "rsrq": -11.0,
+        "snr": 345.0
+      }
+    },
+    {
+      "id": 136,
+      "timestamp": "2024-05-23_14-48-12",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.378,
+        "avg_latency": 37.548,
+        "max_latency": 46.897
+      },
+      "iperf": {
+        "uplink": 66.0,
+        "downlink": 166.1,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -79.0,
+        "rsrq": -11.0,
+        "snr": 275.0
+      }
+    },
+    {
+      "id": 67,
+      "timestamp": "2024-05-23_14-10-47",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.242,
+        "avg_latency": 40.538,
+        "max_latency": 53.225
+      },
+      "iperf": {
+        "uplink": 49.4,
+        "downlink": 113.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -97.0,
+        "rsrq": -11.0,
+        "snr": 220.0
+      }
+    },
+    {
+      "id": 128,
+      "timestamp": "2024-05-23_14-38-57",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.847,
+        "avg_latency": 39.336,
+        "max_latency": 53.446
+      },
+      "iperf": {
+        "uplink": 69.2,
+        "downlink": 118.4,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -85.33333333333333,
+        "rsrq": -11.0,
+        "snr": 280.0
+      }
+    },
+    {
+      "id": 131,
+      "timestamp": "2024-05-23_14-43-02",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.218,
+        "avg_latency": 36.305,
+        "max_latency": 46.223
+      },
+      "iperf": {
+        "uplink": 71.9,
+        "downlink": 194.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -85.0,
+        "rsrq": -10.666666666666666,
+        "snr": 330.0
+      }
+    },
+    {
+      "id": 95,
+      "timestamp": "2024-05-23_14-16-37",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.345,
+        "avg_latency": 36.683,
+        "max_latency": 51.231
+      },
+      "iperf": {
+        "uplink": 70.4,
+        "downlink": 60.5,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -88.33333333333333,
+        "rsrq": -10.666666666666666,
+        "snr": 260.0
+      }
+    },
+    {
+      "id": 135,
+      "timestamp": "2024-05-23_14-47-22",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.315,
+        "avg_latency": 36.349,
+        "max_latency": 44.459
+      },
+      "iperf": {
+        "uplink": 71.6,
+        "downlink": 83.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -74.33333333333333,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 110,
+      "timestamp": "2024-05-23_14-28-18",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.309,
+        "avg_latency": 36.874,
+        "max_latency": 46.447
+      },
+      "iperf": {
+        "uplink": 72.4,
+        "downlink": 249.8,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -86.66666666666667,
+        "rsrq": -11.0,
+        "snr": 295.0
+      }
+    },
+    {
+      "id": 115,
+      "timestamp": "2024-05-23_14-34-25",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 34.664,
+        "avg_latency": 40.328,
+        "max_latency": 54.905
+      },
+      "iperf": {
+        "uplink": 16.2,
+        "downlink": 56.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -117.0,
+        "rsrq": -13.333333333333334,
+        "snr": 75.0
+      }
+    },
+    {
+      "id": 120,
+      "timestamp": "2024-05-22_12-45-55",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.107,
+        "avg_latency": 37.102,
+        "max_latency": 48.244
+      },
+      "iperf": {
+        "uplink": 69.3,
+        "downlink": 104.9,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -99.0,
+        "rsrq": -11.0,
+        "snr": 265.0
+      }
+    },
+    {
+      "id": 119,
+      "timestamp": "2024-05-22_12-45-18",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.743,
+        "avg_latency": 38.264,
+        "max_latency": 51.343
+      },
+      "iperf": {
+        "uplink": 66.4,
+        "downlink": 256.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -89.0,
+        "rsrq": -11.0,
+        "snr": 245.0
+      }
+    },
+    {
+      "id": 122,
+      "timestamp": "2024-05-22_12-47-24",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.775,
+        "avg_latency": 40.355,
+        "max_latency": 54.879
+      },
+      "iperf": {
+        "uplink": 31.8,
+        "downlink": 259.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -97.0,
+        "rsrq": -11.0,
+        "snr": 245.0
+      }
+    },
+    {
+      "id": 124,
+      "timestamp": "2024-05-22_12-49-07",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.87,
+        "avg_latency": 39.775,
+        "max_latency": 52.295
+      },
+      "iperf": {
+        "uplink": 55.1,
+        "downlink": 209.2,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -92.0,
+        "rsrq": -11.0,
+        "snr": 240.0
+      }
+    },
+    {
+      "id": 123,
+      "timestamp": "2024-05-22_12-48-15",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.967,
+        "avg_latency": 38.76,
+        "max_latency": 51.002
+      },
+      "iperf": {
+        "uplink": 57.0,
+        "downlink": 96.0,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -98.0,
+        "rsrq": -11.0,
+        "snr": 225.0
+      }
+    },
+    {
+      "id": 121,
+      "timestamp": "2024-05-22_12-46-33",
+      "ping": {
+        "packet_loss": 0.0,
+        "min_latency": 33.853,
+        "avg_latency": 37.513,
+        "max_latency": 49.126
+      },
+      "iperf": {
+        "uplink": 77.9,
+        "downlink": 258.7,
+        "duration": 10,
+        "mode": "tcp",
+        "lost_percent": 0.0
+      },
+      "signal": {
+        "mode": "NR5G_SA",
+        "operation_mode": "Online",
+        "mcc_mnc": "242-12",
+        "tac": "765D",
+        "scell_id": "4955280",
+        "pcell_id": "0",
+        "freq_band": "NR5G_BAND78",
+        "earfcn": "640704",
+        "rsrp": -100.0,
+        "rsrq": -11.0,
+        "snr": 245.0
+      }
+    }
+  ]
+}
